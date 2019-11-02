@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\work\designpattern\composite\composite.hpp(1): warning C4068: unknown pragma
+  Composite.vcxproj -> C:\work\DesignPattern\Debug\Composite.exe
+  Composite.vcxproj -> C:\work\DesignPattern\Debug\Composite.pdb (Full PDB)
